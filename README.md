@@ -79,11 +79,3 @@ Para verificar os testes feitos execute a classe `AllTests.java` do pacote `src/
 | ufpb.exception | Todas as exceções deste pacote são lançadas e tratadas nas classes Conta.java, Jogador.java, JogoFacade.java, JogoFactory.java, JogoFactoryPrisao.java e Jogo.java, do pacote ufpb.jogo , tais como, se a cor que um jogador escolheu para si é uma cor possível, se um valor de dinheiro é válido , se algum limite foi excedido, entre outros. Este pacote possibilita que existam exceções mais especializadas, para que possamos tratá las para entender melhor alguns erros.|
 | ufpb.recuperaDados | Este pacote é referente a camada de persistência de dados em arquivos, onde conseguimos recuperar os dados, em forma de String dos arquivos .txt, para serem convertidos em objetos na classe Tabuleiro.java.|
 
-
-## Ações desenvolvidas por cada integrante da equipe referente a 3ª entrega
-|Nome|Ações|
-|--|--|
-|Amanda| Parte do Story 8, parte do JavaDoc.|
-|Clebson| Parte do Story 9, correção de factory method para o strategy method e padronização das entradas.|
-|Joana|  Parte do Story 9 e todos os testes.|
-|Joyce| Implementção do padrão Singleton, parte do javaDoc e parte do Story 8. |
